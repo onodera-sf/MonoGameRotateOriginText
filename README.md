@@ -1,0 +1,7 @@
+# MonoGameRotateOriginText
+回転軸を指定して文字を回転させるサンプルです。
+
+プログラムの元となっている Tips は以下のページで公開しています。
+Tips ページの内容は XNA ベースとなっていますが MonoGame でもそのまま使用可能です。
+
+https://sorceryforce.net/tips/xna-text-rotate-origin-text
